@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.prashant
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, aws-lambda, aws-lambda-custom-runtime, aws-lambda-events-serde, aws-lambda-handler-default, data, data-jpa, github-workflow-ci, h2, hibernate-jpa, http-client, http-client-test, java, jdbc-hikari, junit, logback, lombok, maven, maven-enforcer-plugin, micronaut-aot, openapi, readme, serialization-jackson, shade, snapstart, x86, yaml, yaml-build]
